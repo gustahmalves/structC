@@ -1,0 +1,2 @@
+# structC
+ typedef struct test
